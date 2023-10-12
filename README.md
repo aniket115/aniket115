@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniket115
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning GoLnag
-- 💞️ I’m looking to collaborate on world's top projects
+- 💞️ I’m looking to collaborate on world's top proje
 - 
 
 <!---
